@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/Batman-App/static/css/main.84739e53.chunk.css",
+    "main.js": "/Batman-App/static/js/main.80003d16.chunk.js",
+    "main.js.map": "/Batman-App/static/js/main.80003d16.chunk.js.map",
+    "runtime-main.js": "/Batman-App/static/js/runtime-main.d57a9546.js",
+    "runtime-main.js.map": "/Batman-App/static/js/runtime-main.d57a9546.js.map",
+    "static/css/2.17e5ed98.chunk.css": "/Batman-App/static/css/2.17e5ed98.chunk.css",
+    "static/js/2.1ddf4fa4.chunk.js": "/Batman-App/static/js/2.1ddf4fa4.chunk.js",
+    "static/js/2.1ddf4fa4.chunk.js.map": "/Batman-App/static/js/2.1ddf4fa4.chunk.js.map",
+    "index.html": "/Batman-App/index.html",
+    "precache-manifest.2470e2dbd7c9aaa9d60693c6dc1ea2c8.js": "/Batman-App/precache-manifest.2470e2dbd7c9aaa9d60693c6dc1ea2c8.js",
+    "service-worker.js": "/Batman-App/service-worker.js",
+    "static/css/2.17e5ed98.chunk.css.map": "/Batman-App/static/css/2.17e5ed98.chunk.css.map",
+    "static/css/main.84739e53.chunk.css.map": "/Batman-App/static/css/main.84739e53.chunk.css.map",
+    "static/js/2.1ddf4fa4.chunk.js.LICENSE": "/Batman-App/static/js/2.1ddf4fa4.chunk.js.LICENSE"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d57a9546.js",
+    "static/css/2.17e5ed98.chunk.css",
+    "static/js/2.1ddf4fa4.chunk.js",
+    "static/css/main.84739e53.chunk.css",
+    "static/js/main.80003d16.chunk.js"
+  ]
+}
